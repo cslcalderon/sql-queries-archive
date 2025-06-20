@@ -7,11 +7,11 @@ Some interesting SQL queries I've done with some explanations (also for my own r
 
 
 ## 📌 concepts 
-- ### subqueries
+- ### 🚊 subqueries
   - [student_exams/subquery_solution](https://github.com/cslcalderon/sql-queries-archive/blob/main/explanations/student_exams_subquery_explanation.md)
 
-- ### common table expressions
+- ### 🏓 common table expressions
     - [confirmation rate/cte solution](https://github.com/cslcalderon/sql-queries-archive/blob/main/explanations/confirmation_rate_cte_exp_explanation.md)
  
-- ### complex select statements
+- ### 🧮 complex select statements
     - [confirmation rate/normal query solution](https://github.com/cslcalderon/sql-queries-archive/blob/main/explanations/student_exams_subquery_explanation.md)
