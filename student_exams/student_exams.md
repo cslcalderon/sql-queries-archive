@@ -102,7 +102,7 @@ Return the result table ordered by `student_id` and `subject_name`.
 
 
 ## solutions 
-- subquery solution
+- [subquery solution](https://github.com/cslcalderon/sql-queries-archive/blob/main/student_exams/subquery_solution.sql)
 
 
 
