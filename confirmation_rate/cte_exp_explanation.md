@@ -17,10 +17,10 @@ from totals
 
 ## notes
 
-- i first approached the problem using common table expressions because my brain works better trying to split things apart. assuming you would need to use this again for other types of data pulling can also be good for that. otherwise, i do see the cte being not as efficient
-- `total` is the cte produced by this query and it essentially provides a table of total signups for each user and then total confirms
-- the `select user_id..` is the actual query used on the cte to give you final result using the `total` and `confirms` columns made by the cte
-- i noticed it gave `null` when doing invalid math like 0/0 which makes sense so i used `ifnull` but want to seek a better way to do it if there is but good for data validation as well
+- I first approached the problem using Common Table Expressions because my brain works better trying to split things apart. Assuming you would need to use this again for other types of data pulling can also be good for that. Otherwise, I do see the CTE being not as efficient.
+- `total` is the cte produced by this query and it essentially provides a table of total signups for each user and then total confirms.
+- The `select user_id..` is the actual query used on the cte to give you final result using the `total` and `confirms` columns made by the cte.
+- I noticed it gave `null` when doing invalid math like 0/0 which makes sense so i used `ifnull` but want to seek a better way to do it if there is but good for data validation as well.
 
 ## order of running 
 1. cte
