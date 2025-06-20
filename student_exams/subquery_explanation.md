@@ -30,6 +30,6 @@ select st.student_id, st.student_name, su.subject_name,
 5. **`order by`** st.student_id, su.subject_name;
 
 ## concepts 
-- scalar subquery: subquery that returns exactly one value, one row and one column, and can be used in places where a single value
+**- scalar subquery:** subquery that returns exactly one value, one row and one column, and can be used in places where a single value
   is expected in SQL statement. It works here since only want count of how many times student and subject pair shows up in Examination table. 
-- cross join: makes a cartesian product of whatever is cross joined (in this case the Students and Subjects tables)
+**- cross join:** makes a cartesian product of whatever is cross joined (in this case the Students and Subjects tables)
