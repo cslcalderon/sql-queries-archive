@@ -81,3 +81,4 @@ Find the **confirmation rate** for each user:
 
 ### my soltutions 
 - [using common table expressions](https://github.com/cslcalderon/sql-queries-archive/blob/main/confirmation_rate/cte_solution.sql)
+- [normal query](https://github.com/cslcalderon/sql-queries-archive/blob/main/confirmation_rate/normal_query.sql)
