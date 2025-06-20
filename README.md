@@ -2,7 +2,7 @@
 Some interesting SQL queries I've done with some explanations (also for my own reference). Most are from [LeetCode](https://leetcode.com/studyplan/top-sql-50/)!
 
 ## 📖 problems 
-- [student_exams]([https://github.com/cslcalderon/sql-queries-archive/blob/main/student_exams/problem_student_exams.md](https://github.com/cslcalderon/sql-queries-archive/blob/main/problems/student_exams_problem_student_exams.md))
+- [student_exams](https://github.com/cslcalderon/sql-queries-archive/blob/main/problems/student_exams_problem_student_exams.md)
 - [confirmation rate](https://github.com/cslcalderon/sql-queries-archive/blob/main/problems/confirmation_rate_problem_confirmation_rate.md)
 
 
