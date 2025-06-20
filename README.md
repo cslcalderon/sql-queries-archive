@@ -9,9 +9,13 @@ Some interesting SQL queries I've done with some explanations (also for my own r
 ## 📌 concepts 
 - ### 🚊 subqueries
   - [student_exams/subquery_solution](https://github.com/cslcalderon/sql-queries-archive/blob/main/explanations/student_exams_subquery_explanation.md)
+  - [restaurant growth/multiple subqueries](https://github.com/cslcalderon/sql-queries-archive/blob/main/queries/restaurant_growth_subqueries.sql)
 
 - ### 🏓 common table expressions
     - [confirmation rate/cte solution](https://github.com/cslcalderon/sql-queries-archive/blob/main/explanations/confirmation_rate_cte_exp_explanation.md)
  
 - ### 🧮 complex select statements
     - [confirmation rate/normal query solution](https://github.com/cslcalderon/sql-queries-archive/blob/main/explanations/student_exams_subquery_explanation.md)
+
+- ### joins
+    - [average processing time/simple self join](https://github.com/cslcalderon/sql-queries-archive/blob/main/queries/avg_process_time_self_join.sql)
