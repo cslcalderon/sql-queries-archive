@@ -31,4 +31,5 @@ select st.student_id, st.student_name, su.subject_name,
 
 ## concepts 
 - **cross join**: makes a cartesian product of whatever is cross joined (in this case the Students and Subjects tables)
+
 - **scalar subquery**: subquery that returns exactly one value, one row and one column, and can be used in places where a single value is expected in SQL statement. It works here since only want count of how many times student and subject pair shows up in Examination table. 
