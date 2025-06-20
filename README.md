@@ -8,7 +8,7 @@ Some interesting SQL queries I've done with some explanations (also for my own r
 
 ## 📌 concepts 
 - ### subqueries
-  - [student_exams/subquery_solution]([https://github.com/cslcalderon/sql-queries-archive/blob/main/student_exams/subquery_solution.sql](https://github.com/cslcalderon/sql-queries-archive/blob/main/explanations/student_exams_subquery_explanation.md))
+  - [student_exams/subquery_solution](https://github.com/cslcalderon/sql-queries-archive/blob/main/explanations/student_exams_subquery_explanation.md)
 
 - ### common table expressions
     - [confirmation rate/cte solution](https://github.com/cslcalderon/sql-queries-archive/blob/main/explanations/confirmation_rate_cte_exp_explanation.md)
