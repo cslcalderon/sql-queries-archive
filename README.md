@@ -17,5 +17,5 @@ Some interesting SQL queries I've done with some explanations (also for my own r
 - ### 🧮 complex select statements
     - [confirmation rate/normal query solution](https://github.com/cslcalderon/sql-queries-archive/blob/main/explanations/student_exams_subquery_explanation.md)
 
-- ### joins
+- ### 🤝 joins
     - [average processing time/simple self join](https://github.com/cslcalderon/sql-queries-archive/blob/main/queries/avg_process_time_self_join.sql)
