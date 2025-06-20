@@ -1,3 +1,5 @@
+## problem: [student exams](https://github.com/cslcalderon/sql-queries-archive/blob/main/problems/student_exams_problem_student_exams.md)
+
 ## query 
 
 ```sql 
