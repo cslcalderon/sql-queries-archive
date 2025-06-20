@@ -25,9 +25,9 @@ select st.student_id, st.student_name, su.subject_name,
 ## order of running 
 1. **`from`** Students st
 2. `cross join` Subjects su (makes full cartesian product)
-3. `**select`** on the cartesian product and runs the subquery for that specific student/subject pair
+3. **`select`** on the cartesian product and runs the subquery for that specific student/subject pair
 4. `subquery` in the select...`select count(*) from Examinations e...`
-5. `**order by`** st.student_id, su.subject_name;
+5. **`order by`** st.student_id, su.subject_name;
 
 ## concepts 
 - scalar subquery: subquery that returns exactly one value, one row and one column, and can be used in places where a single value
