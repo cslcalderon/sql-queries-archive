@@ -6,5 +6,5 @@ Some interesting SQL queries I've done with some explanations (also for my own r
 
 
 ## 📌 concepts 
-- subqueries
+- # **subqueries**
   - [student_exams/subquery_solution](https://github.com/cslcalderon/sql-queries-archive/blob/main/student_exams/subquery_solution.sql)
