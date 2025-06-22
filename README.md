@@ -20,6 +20,6 @@ Some interesting SQL queries I've done with some explanations (also for my own r
 - ### 🤝 joins
     - [average processing time/simple self join](https://github.com/cslcalderon/sql-queries-archive/blob/main/queries/avg_process_time_self_join.sql)
 
-- ### read world examples from my internship
+- ### 🌎 read world examples from my internship
     - I  definetly have most of my foundational knowledge in R, so I thought a great way would be a good way to learn if I tried translating some of what I do in R into SQL!
     - Here's that [folder](https://github.com/cslcalderon/sql-queries-archive/tree/main/translated-from-r)!
