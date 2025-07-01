@@ -1,0 +1,10 @@
+# Force SQL recognition
+*.sql linguist-language=SQL
+*.SQL linguist-language=SQL
+
+# If you have any R files you want to exclude from language stats
+*.R linguist-vendored=true
+*.r linguist-vendored=true
+
+# Make sure SQL files are detectable
+*.sql linguist-detectable=true
